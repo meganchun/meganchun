@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hi, I'm Megan 👋</h1>
+<h2 align="left">Hi there, I'm Megan 👋</h2>
 <p align="left">
   my current favourite emoji: 🌷
 </p>
