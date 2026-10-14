@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hi there, I'm Megan</h2>
 <p align="left">
-  my current favourite emoji: 🌷
+  my current favourite emoji: 🌌
 </p>
 
